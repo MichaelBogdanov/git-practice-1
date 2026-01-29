@@ -1,4 +1,4 @@
-choice_of_tasks.*
-README.md
-lecture.pdf
-.gitignore
+/choice_of_tasks.*
+/README.md
+/lecture.pdf
+/.gitignore
