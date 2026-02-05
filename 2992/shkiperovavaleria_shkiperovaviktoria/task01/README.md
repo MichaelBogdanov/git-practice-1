@@ -13,4 +13,4 @@
 
 ## Как запустить
 cd 2992/shkiperovavaleria_shkiperovaviktoria/task02
-python task02.py
+python task01.py
