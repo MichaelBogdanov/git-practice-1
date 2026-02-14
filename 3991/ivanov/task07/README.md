@@ -21,3 +21,11 @@ result = count_freqency(
 
 print(result)
 ```
+
+## Пример использования
+
+Указан в файле 'using_example.py'.
+Для запуска скрипта используйте команду
+```bash
+python using_example.py
+```
