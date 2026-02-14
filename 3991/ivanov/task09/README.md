@@ -15,3 +15,4 @@ compress_RLE('input.txt', 'compressed.txt')
 
 # Распаковка файла
 decompress_RLE('compressed.txt', 'result.txt')
+```
