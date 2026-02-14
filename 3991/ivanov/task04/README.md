@@ -15,3 +15,11 @@ file_path = 'path_to_file.txt' # Замените на путь к файлу
 result = remove_duplicates(file_path)
 print(result)
 ```
+
+## Пример использования
+
+Указан в файле 'using_example.py'.
+Для запуска скрипта используйте команду
+```bash
+python using_example.py
+```
