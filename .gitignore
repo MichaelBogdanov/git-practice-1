@@ -2,3 +2,6 @@
 /README.md
 /lecture.pdf
 /.gitignore
+
+# Системные файлы MacOS
+.DS_Store
