@@ -16,10 +16,10 @@ def compress_RLE(input_file, output_file):
             # Если символ изменился, записываем предыдущий символ и его количество
             if prev_ch:
                 # Экранируем цифры и спецсимволы
-                if ch in "0123456789\\":
-                    result += f"\\{ch}{ch_count}"
+                if prev_ch in "0123456789\\":
+                    result += f"\\{prev_ch}{ch_count}"
                 else:
-                    result += f"{ch}{ch_count}"
+                    result += f"{prev_ch}{ch_count}"
 
             ch_count = 1
             prev_ch = ch
