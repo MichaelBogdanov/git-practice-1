@@ -1,0 +1,7 @@
+C:\Games\1\git-practice-1\2992\potapov_matveev\task8\bin\Debug\task8.exe.config
+C:\Games\1\git-practice-1\2992\potapov_matveev\task8\bin\Debug\task8.exe
+C:\Games\1\git-practice-1\2992\potapov_matveev\task8\bin\Debug\task8.pdb
+C:\Games\1\git-practice-1\2992\potapov_matveev\task8\obj\Debug\task8.csproj.AssemblyReference.cache
+C:\Games\1\git-practice-1\2992\potapov_matveev\task8\obj\Debug\task8.csproj.CoreCompileInputs.cache
+C:\Games\1\git-practice-1\2992\potapov_matveev\task8\obj\Debug\task8.exe
+C:\Games\1\git-practice-1\2992\potapov_matveev\task8\obj\Debug\task8.pdb
