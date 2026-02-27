@@ -1,0 +1,15 @@
+C:\Users\pavuk\Desktop\ПРОГРАММЫ\3 курс\git-practice-1\3991\tokarev\task09\solution\solution\bin\Debug\net8.0\solution.exe
+C:\Users\pavuk\Desktop\ПРОГРАММЫ\3 курс\git-practice-1\3991\tokarev\task09\solution\solution\bin\Debug\net8.0\solution.deps.json
+C:\Users\pavuk\Desktop\ПРОГРАММЫ\3 курс\git-practice-1\3991\tokarev\task09\solution\solution\bin\Debug\net8.0\solution.runtimeconfig.json
+C:\Users\pavuk\Desktop\ПРОГРАММЫ\3 курс\git-practice-1\3991\tokarev\task09\solution\solution\bin\Debug\net8.0\solution.dll
+C:\Users\pavuk\Desktop\ПРОГРАММЫ\3 курс\git-practice-1\3991\tokarev\task09\solution\solution\bin\Debug\net8.0\solution.pdb
+C:\Users\pavuk\Desktop\ПРОГРАММЫ\3 курс\git-practice-1\3991\tokarev\task09\solution\solution\obj\Debug\net8.0\solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavuk\Desktop\ПРОГРАММЫ\3 курс\git-practice-1\3991\tokarev\task09\solution\solution\obj\Debug\net8.0\solution.AssemblyInfoInputs.cache
+C:\Users\pavuk\Desktop\ПРОГРАММЫ\3 курс\git-practice-1\3991\tokarev\task09\solution\solution\obj\Debug\net8.0\solution.AssemblyInfo.cs
+C:\Users\pavuk\Desktop\ПРОГРАММЫ\3 курс\git-practice-1\3991\tokarev\task09\solution\solution\obj\Debug\net8.0\solution.csproj.CoreCompileInputs.cache
+C:\Users\pavuk\Desktop\ПРОГРАММЫ\3 курс\git-practice-1\3991\tokarev\task09\solution\solution\obj\Debug\net8.0\solution.sourcelink.json
+C:\Users\pavuk\Desktop\ПРОГРАММЫ\3 курс\git-practice-1\3991\tokarev\task09\solution\solution\obj\Debug\net8.0\solution.dll
+C:\Users\pavuk\Desktop\ПРОГРАММЫ\3 курс\git-practice-1\3991\tokarev\task09\solution\solution\obj\Debug\net8.0\refint\solution.dll
+C:\Users\pavuk\Desktop\ПРОГРАММЫ\3 курс\git-practice-1\3991\tokarev\task09\solution\solution\obj\Debug\net8.0\solution.pdb
+C:\Users\pavuk\Desktop\ПРОГРАММЫ\3 курс\git-practice-1\3991\tokarev\task09\solution\solution\obj\Debug\net8.0\solution.genruntimeconfig.cache
+C:\Users\pavuk\Desktop\ПРОГРАММЫ\3 курс\git-practice-1\3991\tokarev\task09\solution\solution\obj\Debug\net8.0\ref\solution.dll
