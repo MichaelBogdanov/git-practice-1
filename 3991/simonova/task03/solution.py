@@ -1,26 +1,34 @@
 import sys
+import os
 
 def main():
-    # Проверка указан ли файл
+    # проверка указан ли файл
     if len(sys.argv) != 2:
-        print ("используется: <файл>")
+        print("Ошибка: не указан входной файл")
+        print("Пример как надо: python solution.py input.txt")
         return
     
-    # читает файл
-    with open(sys.argv[1], 'r', encoding='utf-8') as f:
-        text = f.read()
-
-    # разбивает на слова и удаляет пробелы
-    words = text.split()
-
-    # переворачивает 
-    words.reverse()
-
-    # соединяем с 1 пробелом 
-    result = ' '.join(words)
-
-    print(result)
+    filename = sys.argv[1]
+    
+    # проверка существует ли файл
+    if not os.path.exists(filename):
+        print(f"Ошибка: файл '{filename}' не найден")
+        return
+    
+    try:
+        # читает файл
+        with open(filename, 'r', encoding='utf-8') as f:
+            text = f.read()
+        
+        # разбиваем на слова, переворачиваем и соединяем
+        words = text.split()
+        words.reverse()
+        result = ' '.join(words)
+        
+        print(result)
+        
+    except Exception as e:
+        print(f"Ошибка при чтении файла: {e}")
 
 if __name__ == "__main__":
     main()
-    
