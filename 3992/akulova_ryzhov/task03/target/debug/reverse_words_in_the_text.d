@@ -1,0 +1,1 @@
+/home/lima148/Documents/Scripts/Rust/active_projects/bogdanov_practice/reverse_words_in_the_text/target/debug/reverse_words_in_the_text: /home/lima148/Documents/Scripts/Rust/active_projects/bogdanov_practice/reverse_words_in_the_text/src/main.rs
