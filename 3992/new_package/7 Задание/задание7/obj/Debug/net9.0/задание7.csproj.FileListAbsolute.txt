@@ -1,0 +1,14 @@
+D:\C#-Мой пак знаний\задание7\задание7\bin\Debug\net9.0\задание7.exe
+D:\C#-Мой пак знаний\задание7\задание7\bin\Debug\net9.0\задание7.deps.json
+D:\C#-Мой пак знаний\задание7\задание7\bin\Debug\net9.0\задание7.runtimeconfig.json
+D:\C#-Мой пак знаний\задание7\задание7\bin\Debug\net9.0\задание7.dll
+D:\C#-Мой пак знаний\задание7\задание7\bin\Debug\net9.0\задание7.pdb
+D:\C#-Мой пак знаний\задание7\задание7\obj\Debug\net9.0\задание7.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Мой пак знаний\задание7\задание7\obj\Debug\net9.0\задание7.AssemblyInfoInputs.cache
+D:\C#-Мой пак знаний\задание7\задание7\obj\Debug\net9.0\задание7.AssemblyInfo.cs
+D:\C#-Мой пак знаний\задание7\задание7\obj\Debug\net9.0\задание7.csproj.CoreCompileInputs.cache
+D:\C#-Мой пак знаний\задание7\задание7\obj\Debug\net9.0\задание7.dll
+D:\C#-Мой пак знаний\задание7\задание7\obj\Debug\net9.0\refint\задание7.dll
+D:\C#-Мой пак знаний\задание7\задание7\obj\Debug\net9.0\задание7.pdb
+D:\C#-Мой пак знаний\задание7\задание7\obj\Debug\net9.0\задание7.genruntimeconfig.cache
+D:\C#-Мой пак знаний\задание7\задание7\obj\Debug\net9.0\ref\задание7.dll
