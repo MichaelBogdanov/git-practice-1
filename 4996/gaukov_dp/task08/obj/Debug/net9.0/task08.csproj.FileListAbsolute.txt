@@ -1,0 +1,15 @@
+C:\Users\admin\Downloads\gaukov\git-practice-1\4996\gaukov_dp\task08\bin\Debug\net9.0\task08.exe
+C:\Users\admin\Downloads\gaukov\git-practice-1\4996\gaukov_dp\task08\bin\Debug\net9.0\task08.deps.json
+C:\Users\admin\Downloads\gaukov\git-practice-1\4996\gaukov_dp\task08\bin\Debug\net9.0\task08.runtimeconfig.json
+C:\Users\admin\Downloads\gaukov\git-practice-1\4996\gaukov_dp\task08\bin\Debug\net9.0\task08.dll
+C:\Users\admin\Downloads\gaukov\git-practice-1\4996\gaukov_dp\task08\bin\Debug\net9.0\task08.pdb
+C:\Users\admin\Downloads\gaukov\git-practice-1\4996\gaukov_dp\task08\obj\Debug\net9.0\task08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\gaukov\git-practice-1\4996\gaukov_dp\task08\obj\Debug\net9.0\task08.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\gaukov\git-practice-1\4996\gaukov_dp\task08\obj\Debug\net9.0\task08.AssemblyInfo.cs
+C:\Users\admin\Downloads\gaukov\git-practice-1\4996\gaukov_dp\task08\obj\Debug\net9.0\task08.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\gaukov\git-practice-1\4996\gaukov_dp\task08\obj\Debug\net9.0\task08.sourcelink.json
+C:\Users\admin\Downloads\gaukov\git-practice-1\4996\gaukov_dp\task08\obj\Debug\net9.0\task08.dll
+C:\Users\admin\Downloads\gaukov\git-practice-1\4996\gaukov_dp\task08\obj\Debug\net9.0\refint\task08.dll
+C:\Users\admin\Downloads\gaukov\git-practice-1\4996\gaukov_dp\task08\obj\Debug\net9.0\task08.pdb
+C:\Users\admin\Downloads\gaukov\git-practice-1\4996\gaukov_dp\task08\obj\Debug\net9.0\task08.genruntimeconfig.cache
+C:\Users\admin\Downloads\gaukov\git-practice-1\4996\gaukov_dp\task08\obj\Debug\net9.0\ref\task08.dll
