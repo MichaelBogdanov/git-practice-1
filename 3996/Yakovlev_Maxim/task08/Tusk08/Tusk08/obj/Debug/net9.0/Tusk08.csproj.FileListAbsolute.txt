@@ -1,0 +1,15 @@
+C:\Users\maksi\OneDrive\Рабочий стол\git-practice-1\3996\Yakovlev_Maxim\task08\Tusk08\Tusk08\bin\Debug\net9.0\Tusk08.exe
+C:\Users\maksi\OneDrive\Рабочий стол\git-practice-1\3996\Yakovlev_Maxim\task08\Tusk08\Tusk08\bin\Debug\net9.0\Tusk08.deps.json
+C:\Users\maksi\OneDrive\Рабочий стол\git-practice-1\3996\Yakovlev_Maxim\task08\Tusk08\Tusk08\bin\Debug\net9.0\Tusk08.runtimeconfig.json
+C:\Users\maksi\OneDrive\Рабочий стол\git-practice-1\3996\Yakovlev_Maxim\task08\Tusk08\Tusk08\bin\Debug\net9.0\Tusk08.dll
+C:\Users\maksi\OneDrive\Рабочий стол\git-practice-1\3996\Yakovlev_Maxim\task08\Tusk08\Tusk08\bin\Debug\net9.0\Tusk08.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\git-practice-1\3996\Yakovlev_Maxim\task08\Tusk08\Tusk08\obj\Debug\net9.0\Tusk08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\OneDrive\Рабочий стол\git-practice-1\3996\Yakovlev_Maxim\task08\Tusk08\Tusk08\obj\Debug\net9.0\Tusk08.AssemblyInfoInputs.cache
+C:\Users\maksi\OneDrive\Рабочий стол\git-practice-1\3996\Yakovlev_Maxim\task08\Tusk08\Tusk08\obj\Debug\net9.0\Tusk08.AssemblyInfo.cs
+C:\Users\maksi\OneDrive\Рабочий стол\git-practice-1\3996\Yakovlev_Maxim\task08\Tusk08\Tusk08\obj\Debug\net9.0\Tusk08.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Рабочий стол\git-practice-1\3996\Yakovlev_Maxim\task08\Tusk08\Tusk08\obj\Debug\net9.0\Tusk08.sourcelink.json
+C:\Users\maksi\OneDrive\Рабочий стол\git-practice-1\3996\Yakovlev_Maxim\task08\Tusk08\Tusk08\obj\Debug\net9.0\Tusk08.dll
+C:\Users\maksi\OneDrive\Рабочий стол\git-practice-1\3996\Yakovlev_Maxim\task08\Tusk08\Tusk08\obj\Debug\net9.0\refint\Tusk08.dll
+C:\Users\maksi\OneDrive\Рабочий стол\git-practice-1\3996\Yakovlev_Maxim\task08\Tusk08\Tusk08\obj\Debug\net9.0\Tusk08.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\git-practice-1\3996\Yakovlev_Maxim\task08\Tusk08\Tusk08\obj\Debug\net9.0\Tusk08.genruntimeconfig.cache
+C:\Users\maksi\OneDrive\Рабочий стол\git-practice-1\3996\Yakovlev_Maxim\task08\Tusk08\Tusk08\obj\Debug\net9.0\ref\Tusk08.dll
