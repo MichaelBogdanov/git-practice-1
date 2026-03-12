@@ -24,9 +24,9 @@
                 {
                     swapped = true;
                     int temp;
-                    temp = array[i];
-                    array[i] = array[j + 1];
-                    array[j] = temp;
+                    temp = array[j];
+                    array[j] = array[j + 1];
+                    array[j+1] = temp;
                 }
             }
             if (!swapped)
@@ -35,6 +35,7 @@
             }
         }
     }
+    // Функция вывода массива
     static void PrintArray(int[] array)
     {
         foreach (int item in array)
