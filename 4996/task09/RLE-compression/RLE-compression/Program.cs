@@ -8,6 +8,7 @@ namespace RLEcompression
         {
             Menu();
         }
+        //RLE-компрессия строки
         static void RLECompression(string inputString)
         {
             var pairs = new List<Tuple<char, int>>();
@@ -34,6 +35,7 @@ namespace RLEcompression
             }
             Console.WriteLine(result);
         }
+        //RLE-декомпрессия строки
         static void RLEDecompression(string compString)
         {
             string result = "";
@@ -64,6 +66,7 @@ namespace RLEcompression
 
             Console.WriteLine(result);
         }
+        //Меню для выбора компрессии или декомпрессии
         static void Menu()
         {
             Console.WriteLine("1. Компрессия");
