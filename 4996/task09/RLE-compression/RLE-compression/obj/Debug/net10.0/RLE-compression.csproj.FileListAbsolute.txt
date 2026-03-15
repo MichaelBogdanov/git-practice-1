@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\pract1\git-practice-1\4996\task09\RLE-compression\RLE-compression\bin\Debug\net10.0\RLE-compression.exe
+C:\Users\Home\Desktop\pract1\git-practice-1\4996\task09\RLE-compression\RLE-compression\bin\Debug\net10.0\RLE-compression.deps.json
+C:\Users\Home\Desktop\pract1\git-practice-1\4996\task09\RLE-compression\RLE-compression\bin\Debug\net10.0\RLE-compression.runtimeconfig.json
+C:\Users\Home\Desktop\pract1\git-practice-1\4996\task09\RLE-compression\RLE-compression\bin\Debug\net10.0\RLE-compression.dll
+C:\Users\Home\Desktop\pract1\git-practice-1\4996\task09\RLE-compression\RLE-compression\bin\Debug\net10.0\RLE-compression.pdb
+C:\Users\Home\Desktop\pract1\git-practice-1\4996\task09\RLE-compression\RLE-compression\obj\Debug\net10.0\RLE-compression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\pract1\git-practice-1\4996\task09\RLE-compression\RLE-compression\obj\Debug\net10.0\RLE-compression.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\pract1\git-practice-1\4996\task09\RLE-compression\RLE-compression\obj\Debug\net10.0\RLE-compression.AssemblyInfo.cs
+C:\Users\Home\Desktop\pract1\git-practice-1\4996\task09\RLE-compression\RLE-compression\obj\Debug\net10.0\RLE-compression.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\pract1\git-practice-1\4996\task09\RLE-compression\RLE-compression\obj\Debug\net10.0\RLE-compression.sourcelink.json
+C:\Users\Home\Desktop\pract1\git-practice-1\4996\task09\RLE-compression\RLE-compression\obj\Debug\net10.0\RLE-compression.dll
+C:\Users\Home\Desktop\pract1\git-practice-1\4996\task09\RLE-compression\RLE-compression\obj\Debug\net10.0\refint\RLE-compression.dll
+C:\Users\Home\Desktop\pract1\git-practice-1\4996\task09\RLE-compression\RLE-compression\obj\Debug\net10.0\RLE-compression.pdb
+C:\Users\Home\Desktop\pract1\git-practice-1\4996\task09\RLE-compression\RLE-compression\obj\Debug\net10.0\RLE-compression.genruntimeconfig.cache
+C:\Users\Home\Desktop\pract1\git-practice-1\4996\task09\RLE-compression\RLE-compression\obj\Debug\net10.0\ref\RLE-compression.dll

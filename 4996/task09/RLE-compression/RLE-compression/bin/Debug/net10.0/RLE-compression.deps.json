@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "RLE-compression/1.0.0": {
+        "runtime": {
+          "RLE-compression.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RLE-compression/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
