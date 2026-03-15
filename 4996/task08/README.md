@@ -9,5 +9,5 @@
 ## Как запустить
 Скачать .NET SDK 
 Открыть командную строку
-Зайти в папку \git-practice-1\4996\task08\random_password
+Зайти в папку \git-practice-1\4996\task08\random_password\random_password
 прописать dotnet run Program.cs
