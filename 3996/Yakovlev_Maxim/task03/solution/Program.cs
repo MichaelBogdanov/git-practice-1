@@ -5,10 +5,12 @@ class Program
 {
     static void Main(string[] args)
     {
+        string currentDir = Directory.GetCurrentDirectory();
+        string projectRoot = Directory.GetParent(currentDir).Parent.Parent.FullName;
         string inputFilePath = "input.txt";
-        string outputFilePath = "output.txt";
+        string outputFilePath = Path.Combine(projectRoot, "output.txt");
 
-        
+
         if (!File.Exists(inputFilePath))
         {
             Console.WriteLine($"Файл {inputFilePath} не найден.");
