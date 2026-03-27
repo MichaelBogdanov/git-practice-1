@@ -1,0 +1,15 @@
+C:\Users\Admin\git-practice-1\3996\sinitsyna_el\task06\bin\Debug\net10.0\task06.exe
+C:\Users\Admin\git-practice-1\3996\sinitsyna_el\task06\bin\Debug\net10.0\task06.deps.json
+C:\Users\Admin\git-practice-1\3996\sinitsyna_el\task06\bin\Debug\net10.0\task06.runtimeconfig.json
+C:\Users\Admin\git-practice-1\3996\sinitsyna_el\task06\bin\Debug\net10.0\task06.dll
+C:\Users\Admin\git-practice-1\3996\sinitsyna_el\task06\bin\Debug\net10.0\task06.pdb
+C:\Users\Admin\git-practice-1\3996\sinitsyna_el\task06\obj\Debug\net10.0\task06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\git-practice-1\3996\sinitsyna_el\task06\obj\Debug\net10.0\task06.AssemblyInfoInputs.cache
+C:\Users\Admin\git-practice-1\3996\sinitsyna_el\task06\obj\Debug\net10.0\task06.AssemblyInfo.cs
+C:\Users\Admin\git-practice-1\3996\sinitsyna_el\task06\obj\Debug\net10.0\task06.csproj.CoreCompileInputs.cache
+C:\Users\Admin\git-practice-1\3996\sinitsyna_el\task06\obj\Debug\net10.0\task06.sourcelink.json
+C:\Users\Admin\git-practice-1\3996\sinitsyna_el\task06\obj\Debug\net10.0\task06.dll
+C:\Users\Admin\git-practice-1\3996\sinitsyna_el\task06\obj\Debug\net10.0\refint\task06.dll
+C:\Users\Admin\git-practice-1\3996\sinitsyna_el\task06\obj\Debug\net10.0\task06.pdb
+C:\Users\Admin\git-practice-1\3996\sinitsyna_el\task06\obj\Debug\net10.0\task06.genruntimeconfig.cache
+C:\Users\Admin\git-practice-1\3996\sinitsyna_el\task06\obj\Debug\net10.0\ref\task06.dll
